@@ -1,8 +1,8 @@
 Sales Report
 Project Objective:
 
-Create a Customer Performance Report.
-Compare Market Performance and Sales Targets.
+Create a Customer Performance Report https://github.com/Bsharma-hub/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf
+Compare Market Performance and Sales Targets.https://github.com/Bsharma-hub/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf
 Purpose of Sales Analytics:
 
 Enable businesses to monitor and assess their sales activities and overall performance.
@@ -19,8 +19,8 @@ Identify opportunities for business expansion in promising markets.
 Finance Report
 Project Objectives:
 
-Create Profit and Loss (P&L) reports by Fiscal Year and Month.
-Generate P&L reports by Market.
+Create Profit and Loss (P&L) reports by Fiscal Year and Month.https://github.com/Bsharma-hub/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf
+Generate P&L reports by Market.https://github.com/Bsharma-hub/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf
 Purpose of Finance Analytics:
 
 Evaluate financial performance.
